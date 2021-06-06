@@ -31,3 +31,9 @@
 [submodule "luci-theme-netgear"]
 	path = luci-theme-netgear
 	url = https://github.com/tracemouse/luci-theme-netgear.git
+[submodule "luci-theme-opentomcat"]
+	path = luci-theme-opentomcat
+	url = https://github.com/Leo-Jo-My/luci-theme-opentomcat.git
+[submodule "luci-theme-opentopd"]
+	path = luci-theme-opentopd
+	url = https://github.com/sirpdboy/luci-theme-opentopd.git
