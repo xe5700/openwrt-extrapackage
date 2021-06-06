@@ -22,3 +22,12 @@
 [submodule "lua-maxminddb"]
 	path = lua-maxminddb
 	url = https://github.com/jerrykuku/lua-maxminddb
+[submodule "luci-theme-atmaterial"]
+	path = luci-theme-atmaterial
+	url = https://github.com/openwrt-develop/luci-theme-atmaterial.git
+[submodule "luci-theme-tano"]
+	path = luci-theme-tano
+	url = https://github.com/tano-systems/luci-theme-tano.git
+[submodule "luci-theme-netgear"]
+	path = luci-theme-netgear
+	url = https://github.com/tracemouse/luci-theme-netgear.git
