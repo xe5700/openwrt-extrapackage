@@ -25,15 +25,12 @@
 [submodule "luci-theme-atmaterial"]
 	path = luci-theme-atmaterial
 	url = https://github.com/openwrt-develop/luci-theme-atmaterial.git
-[submodule "luci-theme-tano"]
-	path = luci-theme-tano
-	url = https://github.com/tano-systems/luci-theme-tano.git
-[submodule "luci-theme-netgear"]
-	path = luci-theme-netgear
-	url = https://github.com/tracemouse/luci-theme-netgear.git
 [submodule "luci-theme-opentomcat"]
 	path = luci-theme-opentomcat
 	url = https://github.com/Leo-Jo-My/luci-theme-opentomcat.git
 [submodule "luci-theme-opentopd"]
 	path = luci-theme-opentopd
 	url = https://github.com/sirpdboy/luci-theme-opentopd.git
+[submodule "luci-app-netdata"]
+	path = luci-app-netdata
+	url = https://github.com/sirpdboy/luci-app-netdata.git
