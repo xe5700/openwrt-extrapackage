@@ -1,0 +1,21 @@
+[submodule "luci-app-vssr"]
+	path = luci-app-vssr
+	url = https://github.com/jerrykuku/luci-app-vssr
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon
+[submodule "luci-theme-darkmatter"]
+	path = luci-theme-darkmatter
+	url = https://github.com/apollo-ng/luci-theme-darkmatter.git
+[submodule "luci-theme-material"]
+	path = luci-theme-material
+	url = https://github.com/LuttyYang/luci-theme-material.git
+[submodule "luci-app-adguardhome"]
+	path = luci-app-adguardhome
+	url = https://github.com/rufengsuixing/luci-app-adguardhome.git
+[submodule "smartdns"]
+	path = smartdns
+	url = https://github.com/pymumu/smartdns.git
+[submodule "luci-app-smartdns"]
+	path = luci-app-smartdns
+	url = https://github.com/pymumu/luci-app-smartdns.git
