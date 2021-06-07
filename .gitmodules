@@ -13,9 +13,6 @@
 [submodule "luci-app-adguardhome"]
 	path = luci-app-adguardhome
 	url = https://github.com/rufengsuixing/luci-app-adguardhome.git
-[submodule "luci-app-smartdns"]
-	path = luci-app-smartdns
-	url = https://github.com/pymumu/luci-app-smartdns.git
 [submodule "lua-maxminddb"]
 	path = lua-maxminddb
 	url = https://github.com/jerrykuku/lua-maxminddb
