@@ -20,7 +20,6 @@ jobs:
       uses: actions/checkout@V2.3.4
       with:
         token: ${{ secrets.TOKEN }}
-        submodules: true
 
     # Update references
     - name: Git Sumbodule Update
